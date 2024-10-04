@@ -1,0 +1,8 @@
+001
+002
+003 - criar um pequeno formulário de cadastro com:
+		nome completo, endereço, tel, data de nascimento.
+	objetivo:
+		exibir com quebras de linhas.
+004 - esportar para texto .txt
+005 - esportar para texto .txt exercício 003.py

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/nelson-junior/estudos_python/005.py", line 17, in <module>
+    cadastro.write("Nome:\n",nome)
+TypeError: TextIOWrapper.write() takes exactly one argument (2 given)
